@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on making plans for my next big project!
+- 🔭 I’m currently working on a discord name generator bot!
 - 🌱 I’m currently learning Python and Django!
