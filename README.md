@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a discord name generator bot!
+- 🔭 I’m currently working on a discord name generator bot, & a full stack game where you guess the note of the tones played!
 - 🌱 I’m currently learning Python and Django!
